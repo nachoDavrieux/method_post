@@ -1,0 +1,10 @@
+.form{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+body{
+    background-image: url(foto/fondo.jpg);
+    color: blanchedalmond;
+    font-size:large;
+}
